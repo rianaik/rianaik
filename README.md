@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rianaik
-- 👀 I’m interested in Automation. I have worked with GitLab, Selenium, Java(<sub>my "not-so arch-nemesis"</sub> :wink:), RestAssured and Appium to automate the testing.
+- 👀 I’m interested in Automation. I have worked with GitLab, Selenium, Java(my "not-so arch-nemesis" :wink:), RestAssured and Appium to automate the testing.
 - I have a keen interest in Shell-Scripting (need to refine the skills though) and love to work with it.
 - 🌱 I’m currently sharpening my skills of scripting and writing more precise and refined tests.
 - I love trying out different tools for the testing purpose and for fun.
